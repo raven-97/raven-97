@@ -10,8 +10,7 @@ Welcome to my profile
 * OpenCV
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/raven-97/raven-97/blob/master/images/java.svg' width='30'/>
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<img src = 'https://github.com/raven-97/raven-97/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/raven-97/raven-97/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/raven-97/raven-97/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/raven-97/raven-97/blob/master/images/java.svg' width='30'/><img src = 'https://github.com/raven-97/raven-97/blob/master/images/git.svg' width='30'/><img src = 'https://github.com/raven-97/raven-97/blob/master/images/arduino.png' width='30'/><img src = 'https://github.com/raven-97/raven-97/blob/master/images/matlab.jpg' width='30'/>
  
  ## Who am I?
  ```python
