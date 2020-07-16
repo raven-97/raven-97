@@ -32,7 +32,7 @@ Welcome to my profile
  ``` 
  
  ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1Q0WDAVb6cuANtRCAyMHk3M5LLbkorzjL/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1YuNsG5TbCGCFiO_6EjvstKXomCnOxZoS/view?usp=sharing)
 
 ![Adharsh's github stats](https://github-readme-stats.vercel.app/api?username=raven-97&show_icons=true&hide=[%22issues%22])
  
