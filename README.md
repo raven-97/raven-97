@@ -4,20 +4,19 @@
 
 Welcome to my profile
 ## :computer: Technologies I Love
-* Speech and Audio Processing
-* Machine Learning
-* Data Science
-* OpenCV
+* Signal Processing
+* Deep Learning
+* Backend App Development
 
 ## Programming Languages
-<img src = 'https://github.com/raven-97/raven-97/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/raven-97/raven-97/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/raven-97/raven-97/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/raven-97/raven-97/blob/master/images/java.svg' width='30'/><img src = 'https://github.com/raven-97/raven-97/blob/master/images/git.svg' width='30'/>
+<img src = 'https://github.com/raven-97/raven-97/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/raven-97/raven-97/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/raven-97/raven-97/blob/master/images/java.svg' width='30'/><img src = 'https://github.com/raven-97/raven-97/blob/master/images/git.svg' width='30'/>
  
  ## Who am I?
  ```python
  class WhoAmI:
       user = 'Adharsh S'
       
-      current_edu = "College of Engineering Trivandrum"
+      current_edu = "Purdue University"
       
       hobbies = [
         'Coding',
@@ -26,7 +25,7 @@ Welcome to my profile
       ]
 	
       def getCity():
-            retrun Trivandrum_India
+            retrun W. Lafayette
 
 	
  ``` 
