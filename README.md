@@ -30,8 +30,3 @@ Welcome to my profile
 	
  ``` 
  
-[//] ## Other Stuff
-[//] ## Other Stuff
-[//]  - :octocat: [My Resume](https://drive.google.com/file/d/1YuNsG5TbCGCFiO_6EjvstKXomCnOxZoS/view?usp=sharing)
-[//]
- 
