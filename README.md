@@ -30,9 +30,8 @@ Welcome to my profile
 	
  ``` 
  
-% ## Other Stuff
-%  - :octocat: [My Resume](https://drive.google.com/file/d/1YuNsG5TbCGCFiO_6EjvstKXomCnOxZoS/view?usp=sharing)
-%
-% ![Adharsh's github stats](https://github-readme-stats.vercel.app/api?username=raven-97&show_icons=true&hide=[%22issues%22])
- 
+[//] ## Other Stuff
+[//] ## Other Stuff
+[//]  - :octocat: [My Resume](https://drive.google.com/file/d/1YuNsG5TbCGCFiO_6EjvstKXomCnOxZoS/view?usp=sharing)
+[//]
  
